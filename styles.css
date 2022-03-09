@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  background-color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+.titulo {
+  padding:0;
+  margin: 0;
+}
+  
+.opciones {
+  text-align: right;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+
+.encabezado{
+  float: inline-start;
+  margin-bottom: 10px;
+  padding-top: 15px;  
+}
+
+.encabezado p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.avatar {
+  float:left;
+  margin-right: 10px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+#usuario {
+  font-weight: bold;
+}
+
+.publicacion {
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+  
+img {
+  width: 100%;
+}
+
+div.piefoto {
+  padding: 15px;
+}
+
+.piefoto p {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: inline;
+}
+  
+.likes{
+  font-weight: bold;
+}
+
+.iconos{
+  float: inline-start;
+}
+
+.marcalibro {
+  text-align: right;
+}
+
+.iconos i{
+  margin: 0 4px;
+}
+
