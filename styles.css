@@ -69,11 +69,13 @@ div.piefoto {
 }
 
 .iconos{
-  float: inline-start;
+  display: inline-block;
+  margin-bottom: 15px;
 }
 
 .marcalibro {
-  text-align: right;
+  float: right;
+  margin-bottom: 15px;
 }
 
 .iconos i{
