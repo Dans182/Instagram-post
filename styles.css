@@ -17,9 +17,9 @@ body {
 }
 
 .encabezado{
-  float: inline-start;
   margin-bottom: 10px;
   padding-top: 15px;  
+  display: inline-block;
 }
 
 .encabezado p {
